@@ -10,13 +10,12 @@ hide:
 
 # Welcome to **BeamPerms** Docs! :tada:
 
-Sint veniam proident fugiat aliquip reprehenderit cillum in in anim culpa est nulla labore sint.
-Occaecat quis nulla sit ad consectetur ipsum adipisicing ex sunt duis eu.
+**Here you will find a complete documentation for the plugin, explaining how to install, setup, configure and use BeamPerms!**
 
-## For Server Owners
+## For **Server Owners**
 
-Fugiat excepteur aliqua aliquip velit do aliqua velit sint. Voluptate ut aliqua irure excepteur quis amet cillum ullamco. Duis et minim ea cupidatat sint excepteur quis eiusmod sunt ipsum dolor sit culpa. Ipsum in incididunt dolor laboris non enim est consectetur laboris cupidatat eu dolor. Dolor esse ad ipsum labore eiusmod proident quis nulla esse ut. Dolore pariatur magna quis mollit irure deserunt non.
+You own a [BeamMP](https://beammp.com) server, and want to install the plugin? Take a look at our [Installation Guide](getting-started/install.md), were we will walk you through the installation process.
 
-## For Developers
+## For **Developers**
 
-Cillum tempor cillum do est consequat laboris magna ea. Consequat culpa id consequat labore fugiat do aliqua labore proident consectetur velit aute consectetur. Quis minim ad nisi ut amet voluptate est veniam. Dolor eiusmod irure duis laborum est laboris. Tempor non sunt eu sunt exercitation occaecat ad ipsum ea fugiat. Mollit cillum sunt qui ex. Id culpa velit quis Lorem culpa nostrud labore labore irure.
+You are making a [BeamMP](https://beammp.com) plugin and want to make it compatible with **BeamPerms**? Our [Api Usage Guide](api/usage.md) is made for you!

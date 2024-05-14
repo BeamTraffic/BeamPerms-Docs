@@ -86,5 +86,5 @@ nav:
     - Context: features/context.md
 
   - API:
-    - Usage: api/api-usage.md
-    - Reference: api/api-reference.md
+    - Usage: api/usage.md
+    - Reference: api/reference.md

@@ -69,7 +69,22 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Home: index.md
+  - Getting Started:
+    - Installation: getting-started/install.md
+    - Storage Methods: getting-started/storage-methods.md
+
+  - Features:
+    - features/index.md
+    - Context: features/context.md
+
+  - API:
+    - Usage: api/api-usage.md
+    - Reference: api/api-reference.md

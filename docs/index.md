@@ -8,14 +8,10 @@ hide:
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-# Welcome to BeamPerms Docs! :tada:
+# Welcome to **BeamPerms** Docs! :tada:
 
 Sint veniam proident fugiat aliquip reprehenderit cillum in in anim culpa est nulla labore sint.
 Occaecat quis nulla sit ad consectetur ipsum adipisicing ex sunt duis eu.
-
-## For Players
-
-Commodo nisi aliquip veniam est do ex qui mollit eu sint. Ea sunt aliquip nisi dolor elit amet ad esse consequat tempor. Reprehenderit ullamco esse ipsum dolor quis Lorem irure aute ut qui. Fugiat nisi occaecat in veniam nulla est ex pariatur labore officia eu labore sit. Ad quis laborum consequat adipisicing est. Deserunt ex nisi officia laborum magna nulla velit aliqua tempor ipsum voluptate eu enim. Ad ad aliquip irure et eu amet ea proident et do fugiat consequat.
 
 ## For Server Owners
 

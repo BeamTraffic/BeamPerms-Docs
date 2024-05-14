@@ -1,0 +1,75 @@
+site_name: BeamPerms Docs
+repo_url: https://github.com/BeamTraffic/BeamPerms-Docs
+repo_name: BeamPerms-Docs
+copyright: Copyright &copy; 2024 BeamTraffic Mod Team
+
+theme:
+  language: en
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.annotate
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/beamtraffic
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/beamtraffic
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md

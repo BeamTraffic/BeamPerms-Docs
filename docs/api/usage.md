@@ -3,7 +3,7 @@ Qui aliqua commodo laborum ad consequat pariatur. Amet consequat pariatur ex et 
 
 ## Versioning
 The API uses [Semantic Versioning](https://semver.org). This means that any non-backward compatible change will result in an increment of the major version (`1.x.x` --> `2.x.x`). You can be confident that your integration will remain stable across updates, as long as the major version does not change.
-Versions correspond to the [API Reference](reference.md).
+Versions correspond to the [API Reference](reference/index.md).
 
 ### Changelogs
 * Version `1.x.x` represents the initial release of the API.

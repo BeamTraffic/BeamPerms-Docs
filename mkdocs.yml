@@ -16,12 +16,12 @@ theme:
     - content.action.view
     - navigation.footer
     - navigation.tabs
-    - navigation.sections
     - navigation.expand
     - navigation.path
     - navigation.tracking
     - navigation.indexes
     - toc.follow
+    - navigation.top
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -82,9 +82,16 @@ nav:
     - Storage Methods: getting-started/storage-methods.md
 
   - Features:
-    - features/index.md
+    - Features: features/index.md
+    - Web Editor: features/webeditor.md
     - Context: features/context.md
+    - Weight: features/weight.md
+    - Prefix, Suffix: features/prefix-suffix.md
+    - Meta: features/meta.md
+    - Groups: features/groups.md
 
   - API:
     - Usage: api/usage.md
-    - Reference: api/reference.md
+    - Reference:
+      - API Reference: api/reference/index.md
+      - API v1.x.x: api/reference/v1-x-x.md

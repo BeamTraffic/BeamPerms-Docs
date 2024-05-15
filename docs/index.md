@@ -13,4 +13,4 @@ You own a [BeamMP](https://beammp.com) server, and want to install the plugin? T
 
 ## For **Developers**
 
-You are making a [BeamMP](https://beammp.com) plugin and want to make it compatible with **BeamPerms**? Our [Api Usage Guide](api/usage.md) is made for you!
+You are making a [BeamMP](https://beammp.com) plugin and want to make it compatible with **BeamPerms**? Our [Api Usage Guide](api/usage/index.md) is made for you!

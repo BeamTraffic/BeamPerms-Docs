@@ -92,7 +92,8 @@ nav:
     - Groups: features/groups.md
 
   - API:
-    - Usage: api/usage.md
+    - Usage: 
+      - Usage: api/usage/index.md
     - Reference:
       - API Reference: api/reference/index.md
       - API v1.x.x: api/reference/v1-x-x.md
